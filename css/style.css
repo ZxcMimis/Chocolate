@@ -1,0 +1,51 @@
+.container {
+    width: 1166px;
+    margin: 0 auto;
+    padding: 0 15px;
+    outline: solid red;
+}
+
+
+body {
+    font-family: 'Montserrat';
+    background-color: #FAFAFA;
+}
+
+/* header */
+.header-title {
+    color: #111;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 0.9;
+    letter-spacing: -0.54px;
+}
+
+.header-list {
+    display: flex;
+    gap: 24px;
+    margin-left: 188px;
+    margin-right: auto;
+}
+
+.header-item {
+    color: #111;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -0.28px;
+}
+
+.header-link {
+    color: #111;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1,142;
+    letter-spacing: -0.28px;
+}
+
+.header-icon{
+    width: 24px;
+    height: 24px;
+    fill: #FD9222;
+}
